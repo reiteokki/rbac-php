@@ -2,6 +2,9 @@
 
 A minimal role-based access control starter built on Laravel 12 with simple `super` vs `viewer` roles. Super admins can create users. The users list is available on the Dashboard for super admins only.
 
+Postman:
+https://www.postman.com/reyvido-yoga/workspace/public-workspace/collection/46801969-f556cb97-d8ba-4302-9f6b-115f672b7d4b?action=share&creator=46801969
+
 ## Requirements
 - PHP 8.2+
 - Composer
